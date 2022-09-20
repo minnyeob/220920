@@ -20,3 +20,11 @@ Type conversion 표 작성
 | :14: | :ord(x): | :단일 문자를 정수 값으로 변환합니다.: |
 | :15: | :hex(x): | :정수를 16진수 문자열로 변환합니다.: |
 | :16: | :oct(x): | :정수를 8진수 문자열로 변환합니다.: |
+
+| DATE | 수업내용 | 과제 (:ballot_box_with_check: , :x:) | 과제내용 |
+|------|-------------------------|------|---------|
+|220906|vim사용법, github 사용법  | :ballot_box_with_check: | [HOW_TO_USE_VIM](https://github.com/minnyeob/vshome/blob/master/class220906.py)
+|220913|마크다운 사용법 | :ballot_box_with_check: | 마크다운으로 자기소개작성 |     
+|220906|vim사용법, github 사용법  | :ballot_box_with_check: | [HOW_TO_USE_VIM](https://github.com/minnyeob/AIcontrol/blob/main/220906%EA%B3%BC%EC%A0%9C.py)
+|220913|마크다운 사용법 | :ballot_box_with_check: | 마크다운으로 자기소개작성 |    
+|220920|[파이선 사용법](https://github.com/minnyeob/AIcontrol/blob/main/220920.py)| :ballot_box_with_check: | type conversion 마크다운 표 제작 |
